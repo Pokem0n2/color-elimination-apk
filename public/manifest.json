@@ -1,0 +1,18 @@
+{
+  "name": "Color Elimination",
+  "short_name": "Color Elimination",
+  "description": "A 10x10 color elimination puzzle game inspired by Monument Valley aesthetics",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F7F2EC",
+  "theme_color": "#F7F2EC",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
